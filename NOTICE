@@ -1,0 +1,11 @@
+This package redistributes a prebuilt native helper framework and its generated
+Swift bindings, derived from open source work licensed under the Apache License
+2.0. The original copyright notices are retained in LICENSE and in the source
+files.
+
+Redistributed by AppLooma LLC as AppLoomaUniFFI. The binary is byte-for-byte the
+upstream artefact; only the Swift package metadata around it differs, and the
+checksum in Package.swift can be used to confirm that.
+
+Upstream artefact: RustLiveKitUniFFI.xcframework.zip 0.1.9
+SHA-256: 8db93e8ccd9f22263c39855808da48a4d6b5d620d8f6e43ab4501ede847b23eb
